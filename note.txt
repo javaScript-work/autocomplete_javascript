@@ -1,0 +1,6 @@
+// project note 
+	using oop autocomplete project
+	and many more
+	type sanju
+	
+	done on javascript
